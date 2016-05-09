@@ -1,0 +1,13 @@
+Status: 1 
+a: 2.
+gperp: 100000000. 
+kr: 9000000.
+mu: 0.000025 
+Dphi0: 0.0 
+d: 1.0 
+gr: 0.00025  
+m: 0.049 
+wf: 0.004743420
+
+Total_steps: 15
+Current_run: 5

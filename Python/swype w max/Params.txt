@@ -1,0 +1,11 @@
+Parameters for Python integration of Maxwellbloch, phase modulated.
+a: 2.
+gperp: 100000000. 
+kr: 9000000.
+mu: 0.000025 
+Dphi0: 0.0 
+d: 1.0 
+gr: 25000  
+m: 0.02 
+wf: 0.003792 
+
